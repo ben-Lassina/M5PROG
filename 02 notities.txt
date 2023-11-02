@@ -1,0 +1,13 @@
+De reden waarom we een primary key aanvinken is zodat de waardes in elke rij van een tabel boven de 0 zijn en dat alle waardes in de kolommen anders zijn
+
+De variabelen van het bedrijf albert heijn bestaat uit een straatnaam, een postbus, een huisnummer, een stads of dorpsnaam, en een afdeling.
+
+de straatnaaam is een varchar
+
+de postbus is ook een varchar
+
+het huisnummer is een interger
+
+een stads of dorpsnaam is ook een varchar
+
+en een afdeling is ook een varchar
